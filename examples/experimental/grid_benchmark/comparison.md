@@ -3,6 +3,7 @@ OriginalEnv:
 - Ubuntu 16.04
 - i7 processor (6-core)
 - torch 0.3.0 (iirc)
+
 UpdatedEnv:
 - Mac OS X High Sierra 10.13.6
 - i7 processor (4-core)
